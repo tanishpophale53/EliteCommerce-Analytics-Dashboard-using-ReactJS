@@ -9,7 +9,8 @@
 # Preview of the Dashboard 
 
 ### You can view the live dashboard by going to this link - 
-https://react-elite-commerce-dashboard.vercel.app/
+[https://react-elite-commerce-dashboard.vercel.app/](https://elite-commerce-analytics-dashboard.vercel.app/)
+
 
 
 ![image](https://github.com/user-attachments/assets/758ee93c-87df-4f11-acb6-f3a995edcc29)
