@@ -9,6 +9,10 @@
 # Preview of the Dashboard 
 
 ### You can view the live dashboard by going to this link - 
+https://elite-shop-dashboard.vercel.app/
+
+
+
 ![image](https://github.com/user-attachments/assets/6ca87a4c-341c-45b2-8c87-703ccb98e0bc)
 
 
@@ -20,6 +24,6 @@
 
 
 
-![image](https://github.com/user-attachments/assets/c4f3063b-d70d-427a-92de-1aa6c1c90291)
+
 
 
